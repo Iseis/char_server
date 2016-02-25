@@ -1,4 +1,4 @@
-# char_server
+# chat_server
 
 # Author
 Andrew Owens
